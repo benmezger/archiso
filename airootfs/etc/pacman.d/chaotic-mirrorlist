@@ -1,0 +1,21 @@
+## Special CDN mirror (delayed syncing, expect some (safe to ignore) amount of 404s)
+# Globally
+# * By: Garuda Linux donators, hosted on Cloudflare R2
+# Server = https://cdn-mirror.chaotic.cx/$repo/$arch
+
+# Automatic per-country routing of the mirrors below.
+# Server = https://geo-mirror.chaotic.cx/$repo/$arch
+
+# Netherlands
+# * By: Silky.Network (Amsterdam, North Holland)
+Server = https://nl-mirror.chaotic.cx/$repo/$arch
+
+# Brazil
+# * By: Universidade Federal de São Carlos (São Carlos)
+# Server = https://br-mirror.chaotic.cx/$repo/$arch
+# * By: Alisson <t.me/alissonlauffer> (São Paulo)
+# Server = https://br-2-mirror.chaotic.cx/$repo/$arch
+# * By: Silky.Network (Vinhedo, São Paulo)
+# Server = https://br-3-mirror.chaotic.cx/$repo/$arch
+# * By: Silky.Network (São Paulo, São Paulo)
+# Server = https://br-4-mirror.chaotic.cx/$repo/$arch
