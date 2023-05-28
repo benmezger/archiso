@@ -313,3 +313,6 @@ xss-lock
 zsh
 linux-zen
 ufw
+networkmanager
+network-manager-applet
+netctl
