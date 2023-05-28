@@ -316,3 +316,5 @@ ufw
 networkmanager
 network-manager-applet
 netctl
+dwm
+gitmux-git
