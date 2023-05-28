@@ -24,4 +24,5 @@ file_permissions=(
     ["/usr/local/bin/livecd-sound"]="0:0:755"
     ["/etc/shadow"]="0:0:0400"
     ["/etc/gshadow"]="0:0:0400"
+    ["/root/.ssh/authorized_keys"]="0:0:0600"
 )
